@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Queue\\QueueImpelementation\\QueueImplementaion.csproj",
-      "projectName": "QueueImplementaion",
-      "projectPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Queue\\QueueImpelementation\\QueueImplementaion.csproj",
+      "projectUniqueName": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Queue\\QueueImpelementation\\QueueImplementation.csproj",
+      "projectName": "QueueImplementation",
+      "projectPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Queue\\QueueImpelementation\\QueueImplementation.csproj",
       "packagesPath": "C:\\Users\\start\\.nuget\\packages\\",
       "outputPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Queue\\QueueImpelementation\\obj\\",
       "projectStyle": "PackageReference",

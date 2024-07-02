@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\bin\Debug\net6.0\QueueImplementation.exe
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\bin\Debug\net6.0\QueueImplementation.deps.json
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\bin\Debug\net6.0\QueueImplementation.runtimeconfig.json
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\bin\Debug\net6.0\QueueImplementation.dll
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\bin\Debug\net6.0\QueueImplementation.pdb
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.sourcelink.json
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.dll
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\refint\QueueImplementation.dll
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.pdb
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\QueueImplementation.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Data-structures\Queue\QueueImpelementation\obj\Debug\net6.0\ref\QueueImplementation.dll
