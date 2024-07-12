@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\bin\Debug\net6.0\Implement Queue using Stacks.exe
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\bin\Debug\net6.0\Implement Queue using Stacks.deps.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\bin\Debug\net6.0\Implement Queue using Stacks.runtimeconfig.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\bin\Debug\net6.0\Implement Queue using Stacks.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\bin\Debug\net6.0\Implement Queue using Stacks.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.sourcelink.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\refint\Implement Queue using Stacks.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\Implement Queue using Stacks.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\Implement Queue using Stacks\Implement Queue using Stacks\obj\Debug\net6.0\ref\Implement Queue using Stacks.dll

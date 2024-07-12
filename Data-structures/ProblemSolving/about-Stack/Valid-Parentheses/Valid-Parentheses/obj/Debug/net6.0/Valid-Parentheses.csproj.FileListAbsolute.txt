@@ -1,0 +1,15 @@
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\bin\Debug\net6.0\Valid-Parentheses.exe
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\bin\Debug\net6.0\Valid-Parentheses.deps.json
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\bin\Debug\net6.0\Valid-Parentheses.runtimeconfig.json
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\bin\Debug\net6.0\Valid-Parentheses.dll
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\bin\Debug\net6.0\Valid-Parentheses.pdb
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.AssemblyInfoInputs.cache
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.AssemblyInfo.cs
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.csproj.CoreCompileInputs.cache
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.sourcelink.json
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.dll
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\refint\Valid-Parentheses.dll
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.pdb
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\Valid-Parentheses.genruntimeconfig.cache
+D:\DSA\Data-structures\Stack\Valid-Parentheses\Valid-Parentheses\obj\Debug\net6.0\ref\Valid-Parentheses.dll
