@@ -13,7 +13,7 @@ namespace GraphImpelementation
         private int[] Mark;                 // The mark array
 
         //Constrcutors
-        public GraphM(){}  // Empty Constructor
+        public GraphM() { }  // Empty Constructor
         public GraphM(int n)
         {
             Init(n);
@@ -21,6 +21,11 @@ namespace GraphImpelementation
         public void Init(int n)
         {
             matrix = new int[n][];
+            // make array in each element in the array
+            for (int i = 0; i < n; i++)
+            {
+                matrix[i] = new int[n];
+            }
             Mark = new int[n];
             numEdge = 0;
         }
@@ -62,7 +67,7 @@ namespace GraphImpelementation
         {
             if (matrix[i][j] != 0)
             {
-                Console.WriteLine("Can't Cannot set weight ");
+                Console.WriteLine("Cannot set weight ");
                 return;
             }
             else
