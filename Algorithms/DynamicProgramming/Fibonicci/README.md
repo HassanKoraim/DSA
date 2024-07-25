@@ -1,6 +1,6 @@
 # Fibonicci Problem 
-This solved by Dynammic Programming by two approchs: 
-Top-Down Approach
+**This solved by Dynammic Programming by two approchs:**
+#Top-Down Approach
 ```csharp
       // This Top-Down approach
       public int[] memo = new int[1000]; // to store the 
