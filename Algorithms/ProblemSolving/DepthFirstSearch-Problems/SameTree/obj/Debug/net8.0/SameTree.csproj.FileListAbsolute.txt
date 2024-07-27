@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\bin\Debug\net8.0\SameTree.exe
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\bin\Debug\net8.0\SameTree.deps.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\bin\Debug\net8.0\SameTree.runtimeconfig.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\bin\Debug\net8.0\SameTree.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\bin\Debug\net8.0\SameTree.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.sourcelink.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\refint\SameTree.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\SameTree.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SameTree\obj\Debug\net8.0\ref\SameTree.dll
