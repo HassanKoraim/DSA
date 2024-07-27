@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\bin\Debug\net8.0\Tree_Inoreder.exe
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\bin\Debug\net8.0\Tree_Inoreder.deps.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\bin\Debug\net8.0\Tree_Inoreder.runtimeconfig.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\bin\Debug\net8.0\Tree_Inoreder.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\bin\Debug\net8.0\Tree_Inoreder.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.sourcelink.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\refint\Tree_Inoreder.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\Tree_Inoreder.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirst-Search\94. Binary Tree Inorder Traversal\Tree_Inoreder\obj\Debug\net8.0\ref\Tree_Inoreder.dll

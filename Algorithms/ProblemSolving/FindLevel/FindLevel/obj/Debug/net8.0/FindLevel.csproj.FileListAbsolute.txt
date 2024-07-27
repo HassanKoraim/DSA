@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\bin\Debug\net8.0\FindLevel.exe
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\bin\Debug\net8.0\FindLevel.deps.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\bin\Debug\net8.0\FindLevel.runtimeconfig.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\bin\Debug\net8.0\FindLevel.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\bin\Debug\net8.0\FindLevel.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.sourcelink.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\refint\FindLevel.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\FindLevel.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\FindLevel\FindLevel\obj\Debug\net8.0\ref\FindLevel.dll

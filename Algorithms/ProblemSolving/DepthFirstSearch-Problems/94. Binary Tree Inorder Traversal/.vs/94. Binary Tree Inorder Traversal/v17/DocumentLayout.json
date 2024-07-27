@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A056E-6BF2-4F20-AB96-35F911C8F9E0}|..\\..\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Tree_Inoreder.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirst-search\\94. binary tree inorder traversal\\tree_inoreder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A056E-6BF2-4F20-AB96-35F911C8F9E0}|..\\..\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Tree_Inoreder.csproj|solutionrelative:tree_inoreder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A056E-6BF2-4F20-AB96-35F911C8F9E0}|..\\..\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Tree_Inoreder.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirst-search\\94. binary tree inorder traversal\\tree_inoreder\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A056E-6BF2-4F20-AB96-35F911C8F9E0}|..\\..\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Tree_Inoreder.csproj|solutionrelative:tree_inoreder\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA3A056E-6BF2-4F20-AB96-35F911C8F9E0}|..\\..\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Tree_Inoreder.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirst-search\\94. binary tree inorder traversal\\tree_inoreder\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA3A056E-6BF2-4F20-AB96-35F911C8F9E0}|..\\..\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Tree_Inoreder.csproj|solutionrelative:tree_inoreder\\treenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Solution.cs",
+              "RelativeDocumentMoniker": "Tree_Inoreder\\Solution.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Solution.cs",
+              "RelativeToolTip": "Tree_Inoreder\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:05:05.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TreeNode.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\TreeNode.cs",
+              "RelativeDocumentMoniker": "Tree_Inoreder\\TreeNode.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\TreeNode.cs",
+              "RelativeToolTip": "Tree_Inoreder\\TreeNode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T18:04:10.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Program.cs",
+              "RelativeDocumentMoniker": "Tree_Inoreder\\Program.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirst-Search\\94. Binary Tree Inorder Traversal\\Tree_Inoreder\\Program.cs",
+              "RelativeToolTip": "Tree_Inoreder\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T17:59:12.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
