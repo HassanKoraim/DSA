@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\104. Maximum Depth of Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{683B5811-1F63-405B-BA9D-53272D2CFD13}|Maximum_Depth_of_Binary_Tree\\Maximum_Depth_of_Binary_Tree.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirstsearch-problems\\104. maximum depth of binary tree\\maximum_depth_of_binary_tree\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B5811-1F63-405B-BA9D-53272D2CFD13}|Maximum_Depth_of_Binary_Tree\\Maximum_Depth_of_Binary_Tree.csproj|solutionrelative:maximum_depth_of_binary_tree\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{683B5811-1F63-405B-BA9D-53272D2CFD13}|Maximum_Depth_of_Binary_Tree\\Maximum_Depth_of_Binary_Tree.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirstsearch-problems\\104. maximum depth of binary tree\\maximum_depth_of_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{683B5811-1F63-405B-BA9D-53272D2CFD13}|Maximum_Depth_of_Binary_Tree\\Maximum_Depth_of_Binary_Tree.csproj|solutionrelative:maximum_depth_of_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\104. Maximum Depth of Binary Tree\\Maximum_Depth_of_Binary_Tree\\Solution.cs",
+              "RelativeDocumentMoniker": "Maximum_Depth_of_Binary_Tree\\Solution.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\104. Maximum Depth of Binary Tree\\Maximum_Depth_of_Binary_Tree\\Solution.cs",
+              "RelativeToolTip": "Maximum_Depth_of_Binary_Tree\\Solution.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:31:05.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\104. Maximum Depth of Binary Tree\\Maximum_Depth_of_Binary_Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Maximum_Depth_of_Binary_Tree\\Program.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\104. Maximum Depth of Binary Tree\\Maximum_Depth_of_Binary_Tree\\Program.cs",
+              "RelativeToolTip": "Maximum_Depth_of_Binary_Tree\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBDwAwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T16:14:28.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
