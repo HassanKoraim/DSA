@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\bin\Debug\net8.0\SymmetricTree.exe
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\bin\Debug\net8.0\SymmetricTree.deps.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\bin\Debug\net8.0\SymmetricTree.runtimeconfig.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\bin\Debug\net8.0\SymmetricTree.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\bin\Debug\net8.0\SymmetricTree.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.sourcelink.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\refint\SymmetricTree.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\SymmetricTree.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\DepthFirstSearch-Problems\SymmetricTree\obj\Debug\net8.0\ref\SymmetricTree.dll
