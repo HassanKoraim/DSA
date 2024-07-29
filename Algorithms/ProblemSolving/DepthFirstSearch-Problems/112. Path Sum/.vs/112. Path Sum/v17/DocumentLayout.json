@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\112. Path Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94A50852-112A-4586-B865-E7322CC93AD8}|PathSum\\PathSum.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirstsearch-problems\\112. path sum\\pathsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A50852-112A-4586-B865-E7322CC93AD8}|PathSum\\PathSum.csproj|solutionrelative:pathsum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94A50852-112A-4586-B865-E7322CC93AD8}|PathSum\\PathSum.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirstsearch-problems\\112. path sum\\pathsum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94A50852-112A-4586-B865-E7322CC93AD8}|PathSum\\PathSum.csproj|solutionrelative:pathsum\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\112. Path Sum\\PathSum\\Solution.cs",
+              "RelativeDocumentMoniker": "PathSum\\Solution.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\112. Path Sum\\PathSum\\Solution.cs",
+              "RelativeToolTip": "PathSum\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:02:25.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\112. Path Sum\\PathSum\\Program.cs",
+              "RelativeDocumentMoniker": "PathSum\\Program.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\112. Path Sum\\PathSum\\Program.cs",
+              "RelativeToolTip": "PathSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T23:00:59.917Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
