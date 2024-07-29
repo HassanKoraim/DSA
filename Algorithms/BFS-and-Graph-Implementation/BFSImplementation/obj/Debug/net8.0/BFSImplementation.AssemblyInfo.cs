@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BFSImplementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc889f6e8533a61603224d2ba4ae4ed6fa7265cc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9603a344702d23c24ae94e89d9d7c76ba62a75bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("BFSImplementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BFSImplementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

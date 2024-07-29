@@ -10,17 +10,17 @@ namespace BFSImplementation
         List<int>[] adjList;
 
         // Constructor
-        public Graph(int vertices) 
+        public Graph(int vertices)
         {
             this.vertices = vertices;
             adjList = new List<int>[vertices];
-            for(int i = 0; i < vertices; i++)
+            for (int i = 0; i < vertices; i++)
             {
                 adjList[i] = new List<int>();
             }
         }
         // Function to add an edge to the graph
-        public void AddEdge(int u , int v) { adjList[u].Add(v); }
+        public void AddEdge(int u, int v) { adjList[u].Add(v); }
 
         // Function to perform Breadth First Search on a graph
         public void BFS(int startNode)
@@ -39,7 +39,7 @@ namespace BFSImplementation
                 int currentNode = queue.Dequeue();
                 Console.WriteLine(currentNode + " ");
 
-                foreach(int neighbor in adjList[currentNode])
+                foreach (int neighbor in adjList[currentNode])
                 {
                     // if the neibor didn't visted
                     if (!visted[neighbor])
@@ -51,6 +51,27 @@ namespace BFSImplementation
                 }
 
                 // for(int i = 0; i < adjList[][].)
+            }
+        }
+        public void DFS(int v)
+        {
+            bool[] visited = new bool[vertices];
+            DFSUtil(v, visited);
+        }
+        private void DFSUtil(int v, bool[] visited)
+        {
+            // Mark the current node as visited
+            // and print it
+            visited[v] = true; // Base Case 
+            Console.WriteLine(v + " ");
+            List<int> VList = adjList[v];
+            foreach (var n in VList)
+            {
+                if (!visited[n])
+                {
+                    DFSUtil(n, visited);
+                }
+
             }
         }
     }
