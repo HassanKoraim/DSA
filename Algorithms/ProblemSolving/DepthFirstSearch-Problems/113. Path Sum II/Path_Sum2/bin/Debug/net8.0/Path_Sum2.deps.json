@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Path_Sum2/1.0.0": {
+        "runtime": {
+          "Path_Sum2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Path_Sum2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
