@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\110. Balanced Binary Tree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B116E-783E-4DA7-B701-3FED4966A223}|Balanced_Binary_Tree\\Balanced_Binary_Tree.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirstsearch-problems\\110. balanced binary tree\\balanced_binary_tree\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B116E-783E-4DA7-B701-3FED4966A223}|Balanced_Binary_Tree\\Balanced_Binary_Tree.csproj|solutionrelative:balanced_binary_tree\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C4B116E-783E-4DA7-B701-3FED4966A223}|Balanced_Binary_Tree\\Balanced_Binary_Tree.csproj|e:\\coding\\csharp\\dsa\\algorithms\\problemsolving\\depthfirstsearch-problems\\110. balanced binary tree\\balanced_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C4B116E-783E-4DA7-B701-3FED4966A223}|Balanced_Binary_Tree\\Balanced_Binary_Tree.csproj|solutionrelative:balanced_binary_tree\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\110. Balanced Binary Tree\\Balanced_Binary_Tree\\Solution.cs",
+              "RelativeDocumentMoniker": "Balanced_Binary_Tree\\Solution.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\110. Balanced Binary Tree\\Balanced_Binary_Tree\\Solution.cs",
+              "RelativeToolTip": "Balanced_Binary_Tree\\Solution.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:16:45.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\110. Balanced Binary Tree\\Balanced_Binary_Tree\\Program.cs",
+              "RelativeDocumentMoniker": "Balanced_Binary_Tree\\Program.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Algorithms\\ProblemSolving\\DepthFirstSearch-Problems\\110. Balanced Binary Tree\\Balanced_Binary_Tree\\Program.cs",
+              "RelativeToolTip": "Balanced_Binary_Tree\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIBDwA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T10:14:27.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
