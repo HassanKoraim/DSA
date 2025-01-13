@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\bin\Debug\net6.0\SelectionSortExample.exe
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\bin\Debug\net6.0\SelectionSortExample.deps.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\bin\Debug\net6.0\SelectionSortExample.runtimeconfig.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\bin\Debug\net6.0\SelectionSortExample.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\bin\Debug\net6.0\SelectionSortExample.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.sourcelink.json
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\refint\SelectionSortExample.dll
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.pdb
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\SelectionSortExample.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Algorithms\ProblemSolving\SelectionSortExample\SelectionSortExample\obj\Debug\net6.0\ref\SelectionSortExample.dll
