@@ -8,6 +8,9 @@
             int[] nums2 = new int[4] { 1, 3,4, 2 };
             Solution solution = new Solution();
             solution.NextGreaterElement(nums1, nums2);
+            SolutionByStack solutionbystack  = new SolutionByStack();
+            solutionbystack.NextGreaterElement(nums1, nums2);
+
         }
     }
 }
