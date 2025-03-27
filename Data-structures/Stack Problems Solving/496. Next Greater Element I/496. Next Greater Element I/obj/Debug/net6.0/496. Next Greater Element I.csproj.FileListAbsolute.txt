@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\bin\Debug\net6.0\496. Next Greater Element I.exe
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\bin\Debug\net6.0\496. Next Greater Element I.deps.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\bin\Debug\net6.0\496. Next Greater Element I.runtimeconfig.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\bin\Debug\net6.0\496. Next Greater Element I.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\bin\Debug\net6.0\496. Next Greater Element I.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.sourcelink.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\refint\496. Next Greater Element I.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\496. Next Greater Element I.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\496. Next Greater Element I\496. Next Greater Element I\obj\Debug\net6.0\ref\496. Next Greater Element I.dll

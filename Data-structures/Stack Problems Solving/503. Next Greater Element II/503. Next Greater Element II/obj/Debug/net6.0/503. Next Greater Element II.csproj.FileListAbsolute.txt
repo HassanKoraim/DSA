@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\bin\Debug\net6.0\503. Next Greater Element II.exe
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\bin\Debug\net6.0\503. Next Greater Element II.deps.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\bin\Debug\net6.0\503. Next Greater Element II.runtimeconfig.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\bin\Debug\net6.0\503. Next Greater Element II.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\bin\Debug\net6.0\503. Next Greater Element II.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.sourcelink.json
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\refint\503. Next Greater Element II.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\503. Next Greater Element II.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack\503. Next Greater Element II\503. Next Greater Element II\obj\Debug\net6.0\ref\503. Next Greater Element II.dll
