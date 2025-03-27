@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GraphImpelementation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8321b6a92ca7f35e7e6f880aa9a26ad5e38d40f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GraphImpelementation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GraphImpelementation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

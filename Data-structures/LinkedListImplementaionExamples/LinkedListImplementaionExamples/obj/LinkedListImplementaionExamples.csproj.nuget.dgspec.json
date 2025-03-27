@@ -1,33 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Coding\\CSharp\\DSA\\Data-structures\\Graph\\GraphImpelementation\\GraphImpelementation.csproj": {}
+    "E:\\Coding\\CSharp\\DSA\\Data-structures\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples.csproj": {}
   },
   "projects": {
-    "E:\\Coding\\CSharp\\DSA\\Data-structures\\Graph\\GraphImpelementation\\GraphImpelementation.csproj": {
+    "E:\\Coding\\CSharp\\DSA\\Data-structures\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Graph\\GraphImpelementation\\GraphImpelementation.csproj",
-        "projectName": "GraphImpelementation",
-        "projectPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Graph\\GraphImpelementation\\GraphImpelementation.csproj",
+        "projectUniqueName": "E:\\Coding\\CSharp\\DSA\\Data-structures\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples.csproj",
+        "projectName": "LinkedListImplementaionExamples",
+        "projectPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples.csproj",
         "packagesPath": "C:\\Users\\start\\.nuget\\packages\\",
-        "outputPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Graph\\GraphImpelementation\\obj\\",
+        "outputPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\LinkedListImplementaionExamples\\LinkedListImplementaionExamples\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\start\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -35,16 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
@@ -61,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
