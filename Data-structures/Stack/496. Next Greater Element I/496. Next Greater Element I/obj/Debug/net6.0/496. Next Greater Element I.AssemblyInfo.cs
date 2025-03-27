@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("496. Next Greater Element I")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+423d67c98f2cf174886aca3fae6aa7f3fe9eb14e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0e23a89c86b00cad0ff88b77adc0ab63d51a3f0")]
 [assembly: System.Reflection.AssemblyProductAttribute("496. Next Greater Element I")]
 [assembly: System.Reflection.AssemblyTitleAttribute("496. Next Greater Element I")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

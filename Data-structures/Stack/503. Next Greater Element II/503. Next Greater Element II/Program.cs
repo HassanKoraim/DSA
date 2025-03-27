@@ -6,7 +6,7 @@
         {
             int[] nums = new int [5]{5,6,3,2,7 };
             Solution solution = new Solution();
-            print(solution.NextGreaterElements3(nums));
+            print(solution.NextGreaterElements(nums));
         }
         private static void print(int[] a)
         {

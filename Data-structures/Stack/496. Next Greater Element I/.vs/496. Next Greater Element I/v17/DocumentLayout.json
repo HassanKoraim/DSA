@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{433D99F8-9605-4C1A-902D-A5D0F09CD6AE}|496. Next Greater Element I\\496. Next Greater Element I.csproj|e:\\coding\\csharp\\dsa\\data-structures\\stack\\496. next greater element i\\496. next greater element i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{433D99F8-9605-4C1A-902D-A5D0F09CD6AE}|496. Next Greater Element I\\496. Next Greater Element I.csproj|solutionrelative:496. next greater element i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433D99F8-9605-4C1A-902D-A5D0F09CD6AE}|496. Next Greater Element I\\496. Next Greater Element I.csproj|e:\\coding\\csharp\\dsa\\data-structures\\stack\\496. next greater element i\\496. next greater element i\\solutionbystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433D99F8-9605-4C1A-902D-A5D0F09CD6AE}|496. Next Greater Element I\\496. Next Greater Element I.csproj|solutionrelative:496. next greater element i\\solutionbystack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,25 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SolutionByStack.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack\\496. Next Greater Element I\\496. Next Greater Element I\\SolutionByStack.cs",
+              "RelativeDocumentMoniker": "496. Next Greater Element I\\SolutionByStack.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack\\496. Next Greater Element I\\496. Next Greater Element I\\SolutionByStack.cs",
+              "RelativeToolTip": "496. Next Greater Element I\\SolutionByStack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T10:03:52.527Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Solution.cs",
               "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack\\496. Next Greater Element I\\496. Next Greater Element I\\Solution.cs",
               "RelativeDocumentMoniker": "496. Next Greater Element I\\Solution.cs",
               "ToolTip": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack\\496. Next Greater Element I\\496. Next Greater Element I\\Solution.cs",
               "RelativeToolTip": "496. Next Greater Element I\\Solution.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAmwCwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T11:39:38.362Z",
               "EditorCaption": ""
@@ -49,7 +65,7 @@
               "RelativeDocumentMoniker": "496. Next Greater Element I\\Program.cs",
               "ToolTip": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack\\496. Next Greater Element I\\496. Next Greater Element I\\Program.cs",
               "RelativeToolTip": "496. Next Greater Element I\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T11:39:07.55Z",
               "EditorCaption": ""
