@@ -1,0 +1,15 @@
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.AssemblyInfoInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.AssemblyInfo.cs
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.csproj.CoreCompileInputs.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.sourcelink.json
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\bin\Debug\net6.0\2696_MinStringLength.exe
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\bin\Debug\net6.0\2696_MinStringLength.deps.json
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\bin\Debug\net6.0\2696_MinStringLength.runtimeconfig.json
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\bin\Debug\net6.0\2696_MinStringLength.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\bin\Debug\net6.0\2696_MinStringLength.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\refint\2696_MinStringLength.dll
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.pdb
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\2696_MinStringLength.genruntimeconfig.cache
+E:\Coding\CSharp\DSA\Data-structures\Stack Problems Solving\2696_MinStringLength\2696_MinStringLength\obj\Debug\net6.0\ref\2696_MinStringLength.dll
