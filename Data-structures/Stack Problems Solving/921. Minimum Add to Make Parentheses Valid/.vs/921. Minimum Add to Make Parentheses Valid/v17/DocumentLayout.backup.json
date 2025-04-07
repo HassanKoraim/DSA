@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack Problems Solving\\921. Minimum Add to Make Parentheses Valid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D846B20-24DE-4778-A790-198826144E94}|921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid.csproj|e:\\coding\\csharp\\dsa\\data-structures\\stack problems solving\\921. minimum add to make parentheses valid\\921. minimum add to make parentheses valid\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D846B20-24DE-4778-A790-198826144E94}|921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid.csproj|solutionrelative:921. minimum add to make parentheses valid\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D846B20-24DE-4778-A790-198826144E94}|921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid.csproj|e:\\coding\\csharp\\dsa\\data-structures\\stack problems solving\\921. minimum add to make parentheses valid\\921. minimum add to make parentheses valid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D846B20-24DE-4778-A790-198826144E94}|921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid.csproj|solutionrelative:921. minimum add to make parentheses valid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack Problems Solving\\921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid\\Solution.cs",
+              "RelativeDocumentMoniker": "921. Minimum Add to Make Parentheses Valid\\Solution.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack Problems Solving\\921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid\\Solution.cs*",
+              "RelativeToolTip": "921. Minimum Add to Make Parentheses Valid\\Solution.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAABBwDEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:59:03.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack Problems Solving\\921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid\\Program.cs",
+              "RelativeDocumentMoniker": "921. Minimum Add to Make Parentheses Valid\\Program.cs",
+              "ToolTip": "E:\\Coding\\CSharp\\DSA\\Data-structures\\Stack Problems Solving\\921. Minimum Add to Make Parentheses Valid\\921. Minimum Add to Make Parentheses Valid\\Program.cs",
+              "RelativeToolTip": "921. Minimum Add to Make Parentheses Valid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T22:58:37.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

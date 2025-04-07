@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "921. Minimum Add to Make Parentheses Valid/1.0.0": {
+        "runtime": {
+          "921. Minimum Add to Make Parentheses Valid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "921. Minimum Add to Make Parentheses Valid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
